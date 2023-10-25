@@ -1,4 +1,6 @@
-export default [
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.default = [
   {
     name: "Silver Rice Sushi 🍣",
     priceBracket: "2",
